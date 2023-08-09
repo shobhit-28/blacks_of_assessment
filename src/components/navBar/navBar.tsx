@@ -6,7 +6,7 @@ export const NavBar = () => {
 
         {/* img container */}
         <div className="w-[13.4rem] cursor-pointer">
-            <img src={`src/images/smart lights_logo.svg`} alt="" />
+            <img src={`/images/smart lights_logo.svg`} alt="" />
         </div>
         
         <div className="flex gap-[3.675rem] items-center">

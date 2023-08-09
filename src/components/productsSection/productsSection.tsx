@@ -59,7 +59,7 @@ export const ProductsSection = () => {
 
                 <div className="flex">
                     <div className="w-1/2 scale-x-[-1] relative">
-                        <img src="src\images\smart_lights.png" alt="" />
+                        <img src="\images\smart_lights.png" alt="" />
                         <div className="absolute bottom-0 p-3 left-0 bg-slate-400 "><IoChevronForwardSharp /></div>
                     </div>
                     <div className="flex justify-center pt-16 w-1/2 flex-wrap bg-gradient-to-b from-white via-blue-50 to-blue-100 relative">
@@ -72,7 +72,7 @@ export const ProductsSection = () => {
                             <div className="mt-4 flex items-center gap-2">
                                 <p className="text-[#3661FF] text-xl leading-6">Know More</p>
                                 <div className="w-8">
-                                    <img src="src\images\icon_png.png" alt="" />
+                                    <img src="\images\icon_png.png" alt="" />
                                 </div>
                             </div>
                         </div>

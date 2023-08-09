@@ -2,11 +2,11 @@ import React from 'react'
 
 export const Footer = () => {
     return (
-        <div className="bg-[url('src/images/Footer.png')] bg-no-repeat bg-center h-[41.0625rem] w-full">
+        <div className="bg-[url('/images/Footer.png')] bg-no-repeat bg-center h-[41.0625rem] w-full">
 
             <div className="flex justify-between py-48 px-40">
                 <div className="w-[13.4rem] cursor-pointer">
-                    <img src={`src/images/smart lights_logo.svg`} alt="" />
+                    <img src={`/images/smart lights_logo.svg`} alt="" />
                 </div>
                 <div className="flex gap-20 items-center">
                     <button className='text-lg font-normal text-white'>Product</button>
