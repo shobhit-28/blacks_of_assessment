@@ -24,12 +24,12 @@ export const EcoSystem = () => {
                         <div className="flex gap-4 mb-4">
                             <div className="border p-4 rounded-2xl border-dashed border-[#3661FF]">
                                 <div className="w-16 px-4 py-4 border border-[#3661FF] rounded-2xl">
-                                    <img src="src\images\street_light_controler.png" alt="" />
+                                    <img src="/images/street_light_controler.png" alt="" />
                                 </div>
                             </div>
                             <div className="border p-4 rounded-2xl border-dashed border-[#3661FF]">
                                 <div className="w-16 px-4 py-4 border border-[#3661FF] rounded-2xl">
-                                    <img src="src\images\street_light_controler.png" alt="" />
+                                    <img src="\images\street_light_controler.png" alt="" />
                                 </div>
                             </div>
                         </div>
@@ -46,7 +46,7 @@ export const EcoSystem = () => {
                     <div className="w-32 text-center">
                         <div className="border w-32 p-4 rounded-2xl border-dashed border-slate-400 mb-4">
                             <div className="w-24 px-4 py-4 border-2 bg-white rounded-2xl">
-                                <img src="src\images\gateway_png.png" alt="" />
+                                <img src="\images\gateway_png.png" alt="" />
                             </div>
                         </div>
                         <div className="">
@@ -64,7 +64,7 @@ export const EcoSystem = () => {
                                 <div className="w-32 text-center mt-2">
                                     <div className="border w-32 p-4 rounded-2xl border-dashed border-slate-400 mb-4">
                                         <div className="w-24 px-4 py-4 border-2 bg-white rounded-2xl">
-                                            <img src="src\images\users_png.png" alt="" />
+                                            <img src="\images\users_png.png" alt="" />
                                         </div>
                                     </div>
                                     <div className="">
@@ -82,7 +82,7 @@ export const EcoSystem = () => {
                                 <div className="w-32 text-center mt-2">
                                     <div className="border w-32 p-4 rounded-2xl border-dashed border-slate-400 mb-4">
                                         <div className="w-24 px-4 py-4 border-2 bg-white rounded-2xl">
-                                            <img src="src\images\evaluation_png.png" alt="" />
+                                            <img src="\images\evaluation_png.png" alt="" />
                                         </div>
                                     </div>
                                     <div className="">
@@ -102,7 +102,7 @@ export const EcoSystem = () => {
                     <div className="w-32 text-center">
                         <div className="border w-32 p-4 rounded-2xl border-dashed border-slate-400 mb-4">
                             <div className="w-24 px-4 py-4 border-2 bg-white rounded-2xl">
-                                <img src="src\images\cloud_based management.png" alt="" />
+                                <img src="\images\cloud_based management.png" alt="" />
                             </div>
                         </div>
                         <div className="">
