@@ -1,0 +1,11 @@
+.from-custom-color-1 {
+    background: linear-gradient(270deg, rgba(203, 227, 255, 0.06), rgba(203, 227, 255, 0.06) 0%, rgba(111, 178, 255, 0.40) 0%);
+  }
+
+  .via-custom-color-2 {
+    background: linear-gradient(270deg, rgba(203, 227, 255, 0.06) 0%, rgba(111, 178, 255, 0.40) 0%, rgba(203, 227, 255, 0.06) 49.87%);
+  }
+
+  .to-custom-color-3 {
+    background: linear-gradient(270deg, rgba(203, 227, 255, 0.06) 0%, rgba(111, 178, 255, 0.40) 0%, rgba(203, 227, 255, 0.06) 49.87%, rgba(174, 210, 251, 0.40) 100%);
+  }

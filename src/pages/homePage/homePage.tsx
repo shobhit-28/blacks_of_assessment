@@ -3,6 +3,7 @@ import React from 'react'
 import { NavBar } from '../../components/navBar/navBar'
 import { HeroSection } from '../../components/heroSection/heroSection'
 import { EcoSystem } from '../../components/ecoSystem/ecoSystem'
+import { ProductsSection } from '../../components/productsSection/productsSection'
 
 export const HomePage = () => {
     return (
@@ -10,6 +11,7 @@ export const HomePage = () => {
             <NavBar />
             <HeroSection />
             <EcoSystem />
+            <ProductsSection />
         </div>
     )
 }
